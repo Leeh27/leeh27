@@ -1,11 +1,11 @@
-<h3 align="left">Hi 👋! My name is  Leticia Amarante</h3>
+<h3 align="left">Hi 👋<br>My name is  Leticia Amarante</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leeh27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leeh27&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="144" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeh27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="143" alt="languages graph"  />
 </div>
 
@@ -48,22 +48,10 @@
 
 <br clear="both">
 
-<img align="left" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25scjN5ODdpN2d5YnZsN2hwM3Z4cGphMmY2Zzk2aWxjdmx2c290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"  />
+<img align="right" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25scjN5ODdpN2d5YnZsN2hwM3Z4cGphMmY2Zzk2aWxjdmx2c290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Leeh27/Leeh27/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
+<img align="left" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p6YnFkbmlmdWVqYmZnZmJqZTQybGprM2tvYTl0aWNqZ3ZkMnpzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 ###
