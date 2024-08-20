@@ -60,3 +60,5 @@
 <img align="left" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p6YnFkbmlmdWVqYmZnZmJqZTQybGprM2tvYTl0aWNqZ3ZkMnpzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
