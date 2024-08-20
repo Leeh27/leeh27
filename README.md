@@ -1,8 +1,7 @@
-
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Dalio+Shindi+Yamada;Sou+um+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Leticia+Amarante;Sou+uma+Desenvolvedora+Front-End)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +21,7 @@ Olá, sou **Leticia Amarante**, tenho 28 anos, sou uma **Desenvolvedor Front-End
 <img src="" width="250px">
 <img src="" width="250px">
 </div>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
