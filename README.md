@@ -47,12 +47,8 @@ Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU.
 
 <a href = "mailto:leehamarant22@gmail.com"><img src="https://img.shields.io/badge/Gmail-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
   
-  <a href="https://www.instagram.com/leehamarant?igsh=MXZhNjN3bnBoM2FyOQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:leehamarant22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+<a href = "https://www.linkedin.com/in/let%C3%ADcia-amarante-861028215?originalSubdomain=br"><img src="https://img.shields.io/static/v1?message=LinkedIn-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
+  
   <a href="https://www.linkedin.com/in/let%C3%ADcia-amarante-861028215?originalSubdomain=br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
