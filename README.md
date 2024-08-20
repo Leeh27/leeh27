@@ -47,7 +47,7 @@ Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU.
 
 <a href = "mailto:leehamarant22@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
 <a href="https://www.linkedin.com/in/let%C3%ADcia-amarante-861028215?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.behance.net/letciaamarante1" target="_blank"><img src="https://img.shields.io/badge/v1?message=-Behance-6A5ACD?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<a href="https://www.behance.net/letciaamarante1" target="_blank"><img src="https://img.shields.io/badge/-Behance-6A5ACD?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
 
 ###
