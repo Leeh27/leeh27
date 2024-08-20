@@ -19,9 +19,11 @@ Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeh27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="143" alt="languages graph"  />
-  <img align="left" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p6YnFkbmlmdWVqYmZnZmJqZTQybGprM2tvYTl0aWNqZ3ZkMnpzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-
 </div>
+<br clear="both">
+
+<img align="right" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25scjN5ODdpN2d5YnZsN2hwM3Z4cGphMmY2Zzk2aWxjdmx2c290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"  />
+
 
 ###
 
@@ -57,13 +59,6 @@ Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU.
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=black&labelColor=white&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-###
-
 
 ###
 
