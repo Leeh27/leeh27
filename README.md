@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋<br>My name is  Leticia Amarante</h3>
+<p id="demo">Hi 👋<br>My name is  Leticia Amarante</p> 
 
 ###
 
