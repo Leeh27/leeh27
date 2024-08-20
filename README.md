@@ -16,8 +16,6 @@ Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU.
 # Certificado:
 <img src="certificado.png" width="250px">
 </div>
-<br clear="both">
-
 <img align="right" height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25scjN5ODdpN2d5YnZsN2hwM3Z4cGphMmY2Zzk2aWxjdmx2c290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"  />
 
 
