@@ -2,7 +2,7 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Leticia+Amarante;Sou+uma+Desenvolvedora+Front-End)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Leticia+Amarante;Sou+uma+Desenvolvedora+Front-End)
 
 </div>
 <div align="center">
