@@ -85,9 +85,6 @@ Olá, sou **Leticia Amarante**, tenho 28 anos, sou uma **Desenvolvedor Front-End
 
 
 
-<p id="demo">Hi 👋<br>My name is  Leticia Amarante</p> 
-
-###
 
 <br clear="both">
 
