@@ -1,3 +1,90 @@
+
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Dalio+Shindi+Yamada;Sou+um+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+# Quem sou eu?
+
+</div>
+
+Olá, sou **Leticia Amarante**, tenho 28 anos, sou uma **Desenvolvedor Front-End**.
+
+
+
+
+# Certificado:
+
+<img src="" width="250px">
+<img src="" width="250px">
+</div>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+</div>
+
+<div align="center" >
+
+# Entre em contato:
+
+> <a href="https://leehamarant.netlify.app/">My Portfólio</a>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=footer"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p id="demo">Hi 👋<br>My name is  Leticia Amarante</p> 
 
 ###
