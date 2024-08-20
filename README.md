@@ -5,8 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Leticia+Amarante;Sou+uma+Desenvolvedora+Front-End)](https://git.io/typing-svg)
 
 </div>
-###
+<div align="center">
 
+# Quem sou eu?
+
+</div>
+
+Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU. Além dos estudos, trabalho como freelancer, unindo design e desenvolvimento web, com experiência em HTML, CSS e JavaScript. Estou sempre em busca de oportunidades que me desafiem a aplicar meu conhecimento e agregar valor ao crescimento de uma empresa. Explore meu portfólio e sinta-se à vontade para entrar em contato.
 <br clear="both">
 
 <div align="center">
@@ -47,6 +52,10 @@
   <a href="https://www.behance.net/letciaamarante1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=black&labelColor=white&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
+</div>
+
+# Certificado:
+<img src="certificado.png" width="250px">
 </div>
 
 ###
