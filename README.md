@@ -15,7 +15,7 @@
 Oi! Sou Leticia Amarante, formada em Design Gráfico e atualmente cursando Desenvolvimento Fullstack.<br> Atuo como freelancer, integrando design e desenvolvimento web, para criar soluções criativas e funcionais. <br> Estou sempre em busca de oportunidades que me desafiem a aplicar meu conhecimento e agregar valor ao crescimento de uma empresa. Explore meu portfólio e sinta-se à vontade para entrar em contato.
 <br clear="both">
 # Certificado:
-<img src="certificado2.png" width="350px"><img src="certificado.png" width="450px">
+<img src="certificado2.png" width="350px"><br><img src="certificado.png" width="400px">
 </div><br>
 
 <div align="center">
