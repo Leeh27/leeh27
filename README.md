@@ -16,7 +16,7 @@ Oi! Sou Leticia Amarante, formada em Design Gráfico e atualmente cursando Desen
 <br clear="both">
 # Certificado:
 
-<img src="certificado2.png" margin="20px" width="450px">         <img src="certificado.png" width="550px">
+<img src="certificado2.png" margin="20px" width="445px">         <img src="certificado.png" width="550px">
 </div><br>
 
 <div align="center">
