@@ -11,7 +11,7 @@
 
 </div>
 
-Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU.<br> Além dos estudos, trabalho como freelancer, unindo design e desenvolvimento web, com experiência em HTML, CSS e JavaScript. <br> Estou sempre em busca de oportunidades que me desafiem a aplicar meu conhecimento e agregar valor ao crescimento de uma empresa. Explore meu portfólio e sinta-se à vontade para entrar em contato.
+Oi! Sou Leticia Amarante, formada em Design Gráfico e atualmente cursando Desenvolvimento Fullstack.<br> Atuo como freelancer, integrando design e desenvolvimento web, para criar soluções criativas e funcionais. <br> Estou sempre em busca de oportunidades que me desafiem a aplicar meu conhecimento e agregar valor ao crescimento de uma empresa. Explore meu portfólio e sinta-se à vontade para entrar em contato.
 <br clear="both">
 # Certificado:
 <img src="certificado.png" width="450px">
@@ -34,8 +34,6 @@ Oi! Sou Leticia Amarante, tenho 28 anos e estou cursando Design Gráfico na FMU.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
 </div>
